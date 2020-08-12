@@ -26,8 +26,14 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ottino&show_icons=true&theme=dark&line_height=27"/>
 </a>
 
+<br/>
+<br/>
+
+![image](https://github.com/ottino/ottino/blob/master/dino.gif)
+
+
 <div align="center">
 
-### Este es mi perfil ❤️
+### M❤️xi
 
 </div>
