@@ -9,8 +9,7 @@
 <a href="https://github.com/ottino">
   <img align="left" alt="Ottino's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-<a href="https://stackoverflow.com/users/story/4811439">
+<a href="https://stackoverflow.com/cv/maxiottino">
   <img align="left" alt="Ottino's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />
 </a>
 
