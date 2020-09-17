@@ -12,6 +12,9 @@
 <a href="https://stackoverflow.com/cv/maxiottino">
   <img align="left" alt="Ottino's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />
 </a>
+<a href="https://hub.docker.com/u/ottino">
+  <img align="left" alt="Ottino's Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/docker.svg" />
+</a>
 
 <br/>
 <br/>
@@ -37,6 +40,6 @@
 
 <div align="center">
 
-### M❤️xi
+### M@xi
 
 </div>
