@@ -15,6 +15,9 @@
 <a href="https://hub.docker.com/u/ottino">
   <img align="left" alt="Ottino's Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/docker.svg" />
 </a>
+<a href="https://es.gravatar.com/ottino">
+  <img align="left" alt="Ottino's Gravatar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gravatar.svg" />
+</a>
 
 <br/>
 <br/>
@@ -40,6 +43,6 @@
 
 <div align="center">
 
-### M@xi
+### m@xi
 
 </div>
