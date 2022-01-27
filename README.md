@@ -25,17 +25,6 @@
 - :moneybag: Actualmente trabajo en [Banco Entre Rios](https://www.bancoentrerios.com.ar/)
 - :email: Me podes contactar en : maxi.ottino@gmail.com
 
-<! ––
-<a href="https://github.com/ottino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottino&theme=dark&hide_langs_below=1" />
-</a>
-
-
-<a href="https://github.com/ottino">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ottino&show_icons=true&theme=dark&line_height=27"/>
-</a>
-––>
-
 <br/>
 <br/>
 
